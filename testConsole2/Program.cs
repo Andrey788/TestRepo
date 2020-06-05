@@ -16,7 +16,7 @@ namespace testConsole2
             //t.ShowState();
             //t.SetState(true);
             //t.Eat();
-
+//2222222222
 
             var list = Test();
 
