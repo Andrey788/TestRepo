@@ -19,7 +19,7 @@ namespace testConsole2
 //2222222222
 //3333333333333333
             var list = Test();
-
+///44444
             Console.WriteLine(list.Count);
 
             foreach (var item in list)
