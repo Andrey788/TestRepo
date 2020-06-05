@@ -17,7 +17,7 @@ namespace testConsole2
             //t.SetState(true);
             //t.Eat();
 //2222222222
-
+//3333333333333333
             var list = Test();
 
             Console.WriteLine(list.Count);
